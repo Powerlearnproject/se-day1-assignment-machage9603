@@ -19,7 +19,20 @@ Software engineering is the discipline of designing, developing, testing, and ma
 3. **Agile Methodology (2001):** The publication of the Agile Manifesto formalized a new approach to software development, emphasizing iterative progress, collaboration, and adaptability. Agile methodologies, like Scrum and Kanban, have since become standard practices, significantly enhancing the flexibility and responsiveness of software engineering teams.
 
 -List and briefly explain the phases of the Software Development Life Cycle.
-git push
+
+1. **Planning:** Define project goals, scope, resources, timelines, and risks. Establish a project plan and schedule.
+
+2. **Analysis:** Gather and analyze requirements from stakeholders to understand needs and document functional and non-functional requirements.
+
+3. **Design:** Create system architecture and design specifications based on requirements. Includes both high-level and detailed design.
+
+4. **Implementation:** Develop and code the software according to the design specifications. Perform unit testing to ensure code quality.
+
+5. **Testing:** Verify and validate the software through various testing methods (unit, integration, system, acceptance) to identify and fix defects.
+
+6. **Deployment:** Release the software to the production environment and make it available for end-users.
+
+7. **Maintenance:** Monitor and support the software post-deployment. Address issues, apply updates, and make enhancements as needed.
 
 -Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
