@@ -27,13 +27,13 @@ git push
 
 - **Approach:** Sequential, linear process with distinct phases (requirements, design, implementation, testing, maintenance).
 - **Flexibility:** Rigid; changes are difficult and costly to implement once a phase is complete.
-- **Best For:** Projects with well-defined requirements that are unlikely to change, such as construction or regulatory compliance software.
+- **Best For** Projects with well-defined requirements that are unlikely to change, such as construction or regulatory compliance software.
 
 **Agile Methodology:**
 
 - **Approach:** Iterative, incremental process with frequent feedback and adjustments. Emphasizes collaboration and adaptability.
 - **Flexibility:** Highly flexible; accommodates changes and evolving requirements throughout the project.
-- **Best For:** Projects with uncertain or evolving requirements, such as software development with ongoing user feedback and changes.
+- **Best For** Projects with uncertain or evolving requirements, such as software development with ongoing user feedback and changes.
 
 **Examples:**
 
@@ -69,7 +69,7 @@ git push
 
 **Version Control Systems (VCS):**
 
-- **Importance:** VCS manage and track changes to code over time, enabling collaboration among developers, maintaining code history, and facilitating rollback to previous versions if needed. They prevent conflicts and ensure consistent code integration.
+- **Importance:** VCS manages and track changes to code over time, enabling collaboration among developers, maintaining code history, and facilitating rollback to previous versions if needed. They prevent conflicts and ensure consistent code integration.
 
 - **Examples:**
   - **Git:** A distributed VCS that allows multiple developers to work on a project simultaneously with branching and merging capabilities. Often used with platforms like GitHub or GitLab.
@@ -128,10 +128,11 @@ git push
 
 - **Importance:** Ensures that the AI model understands and interprets the request accurately, improving the quality and relevance of the output. Effective prompts enhance model performance and usability in generating useful and contextually appropriate responses.
 
--Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effectiv**Vague Prompt:**
+-Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective
+**Vague Prompt:**
 "Tell me about technology."
 
 **Improved Prompt:**
 "Explain how blockchain technology works and its key benefits in supply chain management."
 
-**Effectiveness:** The improved prompt is more specific, focusing on blockchain technology and its application in supply chain management. This clarity directs the AI to provide relevant, detailed information, resulting in a more useful and targeted responsee.
+**Effectiveness:** The improved prompt is more specific, focusing on blockchain technology and its application in supply chain management. This clarity directs the AI to provide relevant, detailed information, resulting in more useful and targeted responses.
